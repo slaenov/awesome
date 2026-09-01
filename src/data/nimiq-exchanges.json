@@ -115,7 +115,7 @@
     "name": "EIDEX",
     "logo": "assets/exchanges/eidex.svg",
     "url": "https://eidex.io/screener",
-    "description": "",
+    "description": "Non-custodial route screener that compares live NIM quotes from swap providers and ranks them by output amount",
     "richDescription": null
   }
 ]
